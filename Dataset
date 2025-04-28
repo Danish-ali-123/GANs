@@ -1,2 +1,1 @@
-We use the MNIST dataset (automatically downloaded via Keras). No manual
-download steps are required. https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
+We use the MNIST dataset (automatically downloaded via Keras). No manual download steps are required. https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
