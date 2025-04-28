@@ -1,0 +1,2 @@
+docker build -t fcgan-repl .
+docker run --gpus all --rm -it fcgan-repl bash
